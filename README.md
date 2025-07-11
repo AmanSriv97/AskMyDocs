@@ -37,6 +37,6 @@ A powerful, **RAG based** LLM-powered chatbot that lets you **converse with your
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/yourusername/chat-with-documents.git
+git clone https://github.com/AmanSriv97/AskMyDocs.git
 cd chat-with-documents
 pip install -r requirements.txt
